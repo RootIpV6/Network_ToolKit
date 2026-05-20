@@ -1,0 +1,15 @@
+jan/01 08:00:00 system,info router started
+jan/01 08:01:12 system,info user admin logged in
+jan/01 08:05:33 ssh,info login failure for user root from 192.168.1.50
+jan/01 08:05:34 ssh,info authentication failed for user admin from 10.0.0.15
+jan/01 08:05:35 ssh,info login failure for user guest from 10.0.0.15
+jan/01 08:06:01 firewall,warning access denied for 10.0.0.99
+jan/01 08:10:00 interface,warning ether2 interface down
+jan/01 08:10:05 interface,warning wlan1 disconnected
+jan/01 08:12:00 system,error disk write failure on volume1
+jan/01 08:12:01 system,error configuration error detected
+jan/01 08:15:00 dhcp,warning timeout waiting for offer
+jan/01 08:16:00 hotspot,info connection timeout for user test
+jan/01 08:20:00 firewall,warning possible port scan detected from 10.0.0.200
+jan/01 08:25:00 system,warning brute force attempt blocked from 10.0.0.88
+jan/01 08:30:00 system,info scheduled backup completed

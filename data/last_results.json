@@ -1,0 +1,41 @@
+{
+  "port_scan": {
+    "timestamp": "2026-05-20T00:11:46",
+    "data": {
+      "target": "195.88.119.224",
+      "ports": [
+        8291
+      ],
+      "results": [
+        {
+          "port": 8291,
+          "status": "OPEN"
+        }
+      ]
+    }
+  },
+  "ping_scan": {
+    "timestamp": "2026-05-20T00:11:55",
+    "data": {
+      "network": "195.88.119.224/32",
+      "alive_hosts": [
+        "195.88.119.224"
+      ],
+      "total": 1
+    }
+  },
+  "dns_lookup": {
+    "timestamp": "2026-05-20T00:12:11",
+    "data": {
+      "domain": "google.com",
+      "results": {
+        "A": {
+          "records": [
+            "185.93.54.131"
+          ],
+          "error": null
+        }
+      }
+    }
+  }
+}

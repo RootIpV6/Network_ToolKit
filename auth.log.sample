@@ -1,0 +1,11 @@
+Jan 15 10:01:01 server sshd[1001]: Failed password for root from 185.10.20.30 port 48922 ssh2
+Jan 15 10:01:02 server sshd[1001]: Failed password for root from 185.10.20.30 port 48923 ssh2
+Jan 15 10:01:03 server sshd[1001]: Failed password for root from 185.10.20.30 port 48924 ssh2
+Jan 15 10:02:00 server sshd[1002]: Invalid user admin from 45.33.44.55 port 51234 ssh2
+Jan 15 10:02:01 server sshd[1002]: Failed password for invalid user admin from 45.33.44.55 port 51235 ssh2
+Jan 15 10:02:02 server sshd[1002]: Failed password for invalid user admin from 45.33.44.55 port 51236 ssh2
+Jan 15 10:03:00 server sshd[1003]: Invalid user test from 103.50.60.70 port 60001 ssh2
+Jan 15 10:03:01 server sshd[1003]: Failed password for invalid user test from 103.50.60.70 port 60002 ssh2
+Jan 15 10:04:00 server sshd[1004]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=185.10.20.30 user=root
+Jan 15 10:05:00 server sshd[1005]: Connection closed by authenticating user root 45.33.44.55 port 52000 [preauth]
+Jan 15 10:06:00 server sshd[1006]: Accepted password for admin from 192.168.1.10 port 22 ssh2
